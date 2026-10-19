@@ -1,134 +1,35 @@
-```bash
-╔════════════════════════════════════════╗
-║                                        ║
-║  AHMADĀN SYAFIERE                      ║
-║  > web developer · ui/ux enthusiast    ║
-║                                        ║
-║  [ ONLINE ] open to collaborate        ║
-║                                        ║
-╚════════════════════════════════════════╝
+# Hi, I'm Ahmadān 👋
 
-$ whoami
-ahmadan-syafiere
+<p align="center">
+  <strong>Web Developer • UI/UX Enthusiast</strong><br/>
+  Mahasiswa Sistem Informasi — Indonesia 🇮🇩
+</p>
 
-$ cat about.txt
-Mahasiswa Sistem Informasi dari Indonesia.
-Fokus membangun web yang bersih, cepat,
-dan punya identitas visual yang kuat.
-```
+---
 
-```ts
-// profile.ts
-interface Developer {
-  name: string;
-  role: string[];
-  study: string;
-  location: string;
-  languages: string[];
-  available: boolean;
-}
+## About
+Saya membangun website yang bersih, cepat, dan punya identitas visual yang kuat. Fokus saya: performa web, aksesibilitas, dan desain antarmuka minimal dengan sentuhan estetika gelap-futuristik.
 
-export const ahmadan: Developer = {
-  name: "Ahmadān Syafiere",
-  role: ["Web Developer", "UI/UX Enthusiast"],
-  study: "Sistem Informasi",
-  location: "Indonesia",
-  languages: ["Indonesia", "English"],
-  available: true,
-};
-```
+- 🔭 Saat ini: mengembangkan portfolio dan proyek nyata untuk pengalaman pengguna yang lebih baik
+- 🌱 Sedang belajar: TypeScript, System Design, Motion UI
+- ✨ Prinsip desain: minimal · kontras tinggi · micro-interactions
+- 📫 Hubungi: [Portfolio](https://ahmadcoderfolio.vercel.app) · [GitHub](https://github.com/Ahmadhan2005) · emailkamu@example.com
 
-```ts
-// stack.ts
-export const stack = {
-  frontend: ["Next.js", "React", "Tailwind CSS"],
-  language: ["TypeScript", "JavaScript", "PHP"],
-  markup:   ["HTML5", "CSS3"],
-  database: ["MySQL"],
-  design:   ["Figma"],
-  tools:    ["VS Code", "Git", "GitHub", "Vercel"],
-} as const;
-```
+---
 
-```json
-{
-  "projects": [
-    {
-      "name": "Portfolio Website",
-      "type": "Portfolio",
-      "stack": ["Next.js", "Tailwind", "Performance"],
-      "status": "live",
-      "url": "ahmadcoderfolio.vercel.app"
-    },
-    {
-      "name": "Sistem Informasi",
-      "type": "Academic System",
-      "stack": ["PHP", "MySQL", "Admin UX"],
-      "status": "completed"
-    },
-    {
-      "name": "UI/UX Prototype",
-      "type": "Design",
-      "stack": ["Figma", "Flows", "Mockups"],
-      "status": "completed"
-    }
-  ]
-}
-```
+## Tech & Tools
+Next.js · React · Tailwind CSS · TypeScript · JavaScript · PHP · MySQL · Figma · Vercel · VS Code · Git
 
-```yaml
-# focus.yml
-now:
-  - Clean UI and minimal layouts
-  - Dark futuristic aesthetics
-  - Web performance and accessibility
-learning:
-  - TypeScript
-  - System Design
-  - Motion UI
-goals:
-  - Ship more real-world projects
-  - Contribute to open source
-  - Grow as a full-stack developer
-```
+---
 
-```python
-# workflow.py
-class Workflow:
-    steps = [
-        "research",
-        "wireframe",
-        "design",
-        "build",
-        "test",
-        "ship",
-    ]
+## Selected Projects
+- **Portfolio Website** — Personal site, fokus performa & aksesibilitas. (Live: https://ahmadcoderfolio.vercel.app)
+- **Sistem Informasi** — Proyek akademik dengan UX admin yang disesuaikan.
+- **UI/UX Prototype** — Flows & mockups di Figma untuk studi kasus.
 
-    principles = ("minimal", "dark", "neon")
+---
 
-    def run(self):
-        for step in self.steps:
-            print(f"> {step} ... done")
-
-
-Workflow().run()
-```
-
-```bash
-$ git log --oneline -3
-a1f9c02 feat: keep learning every day
-7be4d11 fix: refactor until it feels clean
-3c8e5a7 init: start building ideas
-
-$ ahmadan --contact
-> portfolio : https://ahmadcoderfolio.vercel.app
-> github    : https://github.com/Ahmadhan2005
-> email     : emailkamu@example.com
-
-$ echo "Let's build something great."
-Let's build something great.
-█
-```
+> "Let's build something great." — saya terbuka untuk kolaborasi dan proyek freelance.
 
 <p align="center">
   <a href="https://ahmadcoderfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00F0FF?style=flat-square&logo=vercel&logoColor=black" alt="portfolio" /></a>
