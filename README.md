@@ -1,8 +1,8 @@
 # Ahmadān Syafiere 👋
 
 <p align="center">
-  <!-- Animated dark‑futuristic banner (SVG) -->
-  <img src="./assets/banner-anim.svg" width="900" alt="Ahmadan futuristic banner" />
+  <!-- Refined dark‑futuristic banner -->
+  <img src="./assets/banner-anim.svg" width="100%" style="max-width:900px;border-radius:14px;" alt="Ahmadan futuristic banner" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  Minimal • Dark futuristic • Neon accents
+  Minimal • Dark futuristic • Neon accents — now mobile‑friendly
 </p>
 
 <p align="center">
@@ -32,9 +32,9 @@
 ## Featured
 
 <p align="center">
-  <img src="./assets/thumb-1.svg" width="260" alt="Project 1" />
-  <img src="./assets/thumb-2.svg" width="260" alt="Project 2" />
-  <img src="./assets/thumb-3.svg" width="260" alt="Project 3" />
+  <img src="./assets/thumb-1.svg" width="280" alt="Project 1" style="margin:8px;" />
+  <img src="./assets/thumb-2.svg" width="280" alt="Project 2" style="margin:8px;" />
+  <img src="./assets/thumb-3.svg" width="280" alt="Project 3" style="margin:8px;" />
 </p>
 
 ---
@@ -60,4 +60,4 @@
 
 ---
 
-<small>Want different palette or to replace placeholders (email/links)? Tell me and I'll update.</small>
+<small>Jika mau saya bisa ganti palet warna, masukkan screenshot nyata, atau ubah teks kontak — sebutkan yang ingin diganti.</small>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" role="img" aria-label="Project thumbnail 1">
   <defs>
-    <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#06202a"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#061526"/><stop offset="1" stop-color="#071122"/></linearGradient>
   </defs>
-  <rect width="520" height="300" rx="18" fill="url(#g1)"/>
-  <rect x="24" y="24" width="120" height="38" rx="10" fill="#071028" stroke="#00f0ff" stroke-opacity="0.14"/>
-  <text x="84" y="50" text-anchor="middle" fill="#7ff6ff" font-size="12">Portfolio</text>
-  <text x="40" y="140" fill="#e6eef8" font-size="20" font-weight="700">Portfolio Website</text>
-  <text x="40" y="170" fill="#9fb1c6" font-size="12">Next.js • Tailwind • Performance</text>
+  <rect width="520" height="300" rx="16" fill="url(#g1)"/>
+  <rect x="24" y="18" width="120" height="36" rx="10" fill="#071028" stroke="#00e5ff" stroke-opacity="0.12"/>
+  <text x="84" y="42" text-anchor="middle" fill="#7ff6ff" font-size="12" font-family="Inter,Segoe UI,Roboto">Portfolio</text>
+  <text x="32" y="130" fill="#e6eef8" font-size="22" font-weight="700" font-family="Inter,Segoe UI,Roboto">Portfolio Website</text>
+  <text x="32" y="160" fill="#9fb1c6" font-size="13">Next.js • Tailwind • Performance</text>
 </svg>
