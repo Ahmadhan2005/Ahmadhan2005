@@ -7,50 +7,6 @@
       <animateTransform attributeName="transform" type="translate" from="0 0" to="30 30" dur="4s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- glowing orbs -->
-    <circle cx="120" cy="60" r="90" fill="#00F0FF" opacity="0.10">
-      <animate attributeName="cx" values="120;180;120" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="790" cy="250" r="110" fill="#FF2E97" opacity="0.10">
-      <animate attributeName="cy" values="250;200;250" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="450" cy="150" r="130" fill="#7C3AED" opacity="0.10">
-      <animate attributeName="r" values="130;150;130" dur="6s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- scan line -->
-    <rect width="900" height="3" fill="#00F0FF" opacity="0.5" filter="url(#glow)">
-      <animate attributeName="y" values="-10;310" dur="5s" repeatCount="indefinite"/>
-    </rect>
-
-    <!-- HUD frame -->
-    <g fill="none" stroke="url(#neon)" stroke-width="2" filter="url(#glow)">
-      <path d="M30 70V30H70"/>
-      <path d="M830 30H870V70"/>
-      <path d="M30 230V270H70"/>
-      <path d="M830 270H870V230"/>
-    </g>
-
-    <!-- text -->
-    <text x="450" y="95" text-anchor="middle" font-family="monospace" font-size="14" fill="#00F0FF" letter-spacing="6" opacity="0.9">
-      &lt; WEB DEVELOPER / UI-UX ENTHUSIAST /&gt;
-    </text>
-    <text x="450" y="165" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="url(#neon)" filter="url(#glow)">
-      AHMADĀN SYAFIERE
-      <animate attributeName="opacity" values="1;0.85;1;0.95;1" dur="3s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="205" text-anchor="middle" font-family="monospace" font-size="16" fill="#9CA3AF" letter-spacing="3">
-      Mahasiswa Sistem Informasi • Indonesia
-    </text>
-
-    <!-- progress bar -->
-    <rect x="300" y="240" width="300" height="6" rx="3" fill="#111A3A"/>
-    <rect x="300" y="240" width="300" height="6" rx="3" fill="url(#neon)" filter="url(#glow)">
-      <animate attributeName="width" values="0;300;300;0" keyTimes="0;0.5;0.9;1" dur="6s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F0FF,50:7C3AED,100:FF2E97&text=Ahmadān%20Syafiere&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <img src="./assets/banner-anim.svg" width="900" alt="Ahmadān futuristic banner" />
