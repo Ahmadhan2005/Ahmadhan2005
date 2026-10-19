@@ -34,5 +34,5 @@ Next.js · React · Tailwind CSS · TypeScript · JavaScript · PHP · MySQL · 
 <p align="center">
   <a href="https://ahmadcoderfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00F0FF?style=flat-square&logo=vercel&logoColor=black" alt="portfolio" /></a>
   <a href="https://github.com/Ahmadhan2005"><img src="https://img.shields.io/badge/github-7C3AED?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
-  <a href="mailto:emailkamu@example.com"><img src="https://img.shields.io/badge/email-FF2E97?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="ahmadansyafiere@gmail.com"><img src="https://img.shields.io/badge/email-FF2E97?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
