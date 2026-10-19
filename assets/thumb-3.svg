@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" role="img" aria-label="Project thumbnail 3">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1"><stop offset="0" stop-color="#071026"/><stop offset="1" stop-color="#081428"/></linearGradient>
+  </defs>
+  <rect width="520" height="300" rx="18" fill="url(#g3)"/>
+  <rect x="24" y="24" width="120" height="38" rx="10" fill="#071028" stroke="#ff5ca8" stroke-opacity="0.12"/>
+  <text x="84" y="50" text-anchor="middle" fill="#ffd0ea" font-size="12">Design</text>
+  <text x="40" y="140" fill="#e6eef8" font-size="20" font-weight="700">UI/UX Prototype</text>
+  <text x="40" y="170" fill="#9fb1c6" font-size="12">Figma • Flows • Mockups</text>
+</svg>
