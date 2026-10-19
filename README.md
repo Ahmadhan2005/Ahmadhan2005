@@ -1,27 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05070F"/>
-      <stop offset="1" stop-color="#0B1026"/>
-    </linearGradient>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00F0FF"/>
-      <stop offset="0.5" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#FF2E97"/>
-    </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#1B2447" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect width="900" height="300" rx="18"/></clipPath>
-  </defs>
-
   <g clip-path="url(#clip)">
     <rect width="900" height="300" fill="url(#bg)"/>
     <rect width="900" height="300" fill="url(#grid)" opacity="0.6">
